@@ -7,7 +7,7 @@
 
 
 <h2 style="margin-top:5rem">🔧 • Skills</h2>
-<div style="display: flex; justify-content: center; margin: 2rem; flex-wrap: wrap; align-itens: center;">
+<div style="display: flex; justify-content: center; margin: 2rem; flex-wrap: wrap; align: center;">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=40 style="margin: .25rem">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=40  style="margin: .25rem">
