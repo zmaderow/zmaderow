@@ -11,7 +11,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=50 height=40 style="margin: .25rem">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=50 height=40 style="margin: .25rem">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=50 height=400 style="margin: .25rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=50 height=40 style="margin: .25rem">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-plain.svg" width=50 height=40 style="margin: .25rem">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width=50 height=40 style="margin: .25rem">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width=50 height=40 style="margin: .25rem">
