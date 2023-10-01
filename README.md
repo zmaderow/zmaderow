@@ -26,5 +26,7 @@
 
 <h2 style="margin-top:5rem">🔢 • Numbers and 📈</h2>
 <div align="center">
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmaderow&theme=radical)](https://github.com/zmaderow)
+
 </div>
