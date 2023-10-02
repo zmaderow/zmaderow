@@ -2,7 +2,8 @@
 
 <h2 style="margin-top:5rem"> 👨‍💻 • About me </h2>
 <ul>
-    <li>🏫 → Studying at IFSP-BRA</li>
+    <li>🚀 → Learning React</li>
+    <li>🏫 → Student at IFSP-BRA</li>
 </ul>
 
 
